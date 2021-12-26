@@ -1,5 +1,5 @@
 {
-    "name": "Music Player",
+    "name": "my Player",
     "description": "A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls",
     "repository": "https://github.com/AsmSafone/MusicPlayer",
     "logo": "https://te.legra.ph/file/211b1f9c373d740d6c3c8.jpg",
@@ -34,7 +34,7 @@
       },
       "PREFIX": {
         "description": "Bot commad prefix or handler (separate multiple prefix with space)",
-        "value": "!",
+        "value": ".",
         "required": false
       },
       "LANGUAGE": {
